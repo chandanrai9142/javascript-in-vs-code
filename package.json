@@ -1,0 +1,17 @@
+{
+  "name": "js-project",
+  "version": "1.0.0",
+  "description": "Minimal Node.js project scaffold",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js",
+    "lint": "eslint . --ext .js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
